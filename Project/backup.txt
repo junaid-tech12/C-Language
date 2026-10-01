@@ -1,0 +1,18 @@
+--- Students ---
+ID: 1, Name: Ali, Dept: CS, Marks: 85
+ID: 2, Name: Sara, Dept: Math, Marks: 72
+ID: 3, Name: Bilal, Dept: Phy, Marks: 45
+ID: 4, Name: Ayesha, Dept: CS, Marks: 90
+ID: 5, Name: Hamza, Dept: Eng, Marks: 60
+ID: 6, Name: Zainab, Dept: Eco, Marks: 38
+ID: 7, Name: Usman, Dept: Math, Marks: 55
+ID: 8, Name: Fatima, Dept: CS, Marks: 77
+ID: 9, Name: Kamran, Dept: Phy, Marks: 63
+ID: 10, Name: Nida, Dept: Eng, Marks: 49
+
+--- Courses ---
+Course ID: 101, Name: ComputerSci
+Course ID: 102, Name: Mathematics
+Course ID: 103, Name: Physics
+Course ID: 104, Name: English
+Course ID: 105, Name: Economics
